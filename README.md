@@ -7,7 +7,7 @@ The finalized workshop agenda can be found at the [AHUG website](https://a-hug.o
 We note that in some cases, we have not linked posters due to work being under submission. 
 
 | Presenter | Talk Title | Organization | [Slides] [Abstract] [Bio] |
-| ---------------------------------- | ------------ | ---------- | --------------------------------|
+| ---------------------------------- | :------------: | ---------- | --------------------------------|
 |  | **Arm HPC Applications and Initiatives** |  |  |
 | Satoshi Matsuoka | "Life With and After Fugaku" |   RIKEN CCS | [Slides]() [Abstract](#ms) [Bio]() |
 | Olly Perks | "AWS Graviton3: The first cloud native SVE-enabled Arm-based processor" |   AWS | [Slides]() [Abstract](#ms) [Bio]() |
@@ -29,7 +29,7 @@ We note that in some cases, we have not linked posters due to work being under s
 
 ## Presenter Abstracts:
 
-<a id="sn">**Satoshi Matsuoka - "Life With and After Fugaku"**</a>
+<a id="ms">**Satoshi Matsuoka - "Life With and After Fugaku"**</a>
 
 No abstract provided.
 
