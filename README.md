@@ -2,15 +2,13 @@
 This is the archival event site for the [ISC 2022 AHUG Workshop](https://a-hug.org/isc-2022-event/).
 
 # Slides and Abstracts
-The finalized workshop agenda can be found at the [AHUG website](https://a-hug.org/isc-2022-event/).
-
-We note that in some cases, we have not linked posters due to work being under submission. 
+The finalized workshop agenda can be found at the [AHUG website](https://a-hug.org/isc-2022-event/). We have shared the slides where provided by the presenters. 
 
 | Presenter | Talk Title | Organization | [Slides] [Abstract] [Bio] |
 | ---------------------------------- | :------------: | ---------- | --------------------------------|
 |  | **Arm HPC Applications and Initiatives** |  |  |
 | Satoshi Matsuoka | "Life With and After Fugaku" |   RIKEN CCS | [Slides]() [Abstract](#ms) [Bio]() |
-| Olly Perks | "AWS Graviton3: The first cloud native SVE-enabled Arm-based processor" |   AWS | [Slides]() [Abstract](#ms) [Bio]() |
+| Olly Perks | "AWS Graviton3: The first cloud native SVE-enabled Arm-based processor" [[Slides]]() |   AWS | [Slides]() [Abstract](#ms) [Bio]() |
 | Emma Fine | "How Arm platforms can be efficiently used to execute lifescience workflows" |   Atos | [Slides]() [Abstract](#ms) [Bio]() |
 | Ben Bennett | "UK Catalyst Programme Review" |   HPE | [Slides]() [Abstract](#ms) [Bio]() |
 |  | **Student Lightning Talks** |    |  |
