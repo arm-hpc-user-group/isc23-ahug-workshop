@@ -1,5 +1,8 @@
 # ISC22 AHUG Workshop Materials
-This is the archival event site for the [ISC 2022 AHUG Workshop](https://a-hug.org/isc-2022-event/).
+This is the archival event site for the [ISC 2022 AHUG Workshop](https://a-hug.org/isc-2022-event/). 
+
+[![DOI](https://zenodo.org/badge/499082767.svg)](https://zenodo.org/badge/latestdoi/499082767)
+
 
 # Slides and Abstracts
 The finalized workshop agenda can be found at the [AHUG website](https://a-hug.org/isc-2022-event/). We have shared the slides where provided by the presenters. 
