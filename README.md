@@ -5,11 +5,12 @@ to be held in conjunction with ISC High Performance 2023 (https://www.isc-hpc.co
 ![Alt text](hamburg1.JPG "Optional title")
 
 ### Date and Time
-25th May 2023
+25th May 2023<br>
 14:00PM-18:00PM
 
 ### Place
-To be updated 
+Congress Center Hamburg (CCH), Germany<br>
+Meeting room will be announced later
 
 ### Timetable and agenda 
 To be updated
