@@ -7,6 +7,14 @@ to be held in conjunction with ISC High Performance 2023 (https://www.isc-hpc.co
 ### Date and Time
 25th May 2023<br>
 2:00PM-6:00PM
+
+
+### Place
+Congress Center Hamburg (CCH), Germany<br>
+Meeting room will be announced later
+
+### Timetable and agenda 
+
 <table>
 <thead>
 <td><b>Start</b></td>
@@ -244,13 +252,6 @@ The variety of ARM chips (and SOC) that are used in the HPC realm make it diffic
 </tbody>
 </table>
 
-
-### Place
-Congress Center Hamburg (CCH), Germany<br>
-Meeting room will be announced later
-
-### Timetable and agenda 
-To be updated
 
 ### Organizers
 - Filippo Spiga (NVIDIA) 
