@@ -6,7 +6,7 @@ to be held in conjunction with ISC High Performance 2023 (https://www.isc-hpc.co
 
 ### Date and Time
 25th May 2023<br>
-14:00PM-18:00PM
+2:00PM-6:00PM
 <table>
 <thead>
 <td><b>Start</b></td>
