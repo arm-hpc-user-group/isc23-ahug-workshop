@@ -18,7 +18,6 @@ Meeting room will be announced later
 <table>
 <thead>
 <td><b>Start</b></td>
-<td><b>Stop</b></td>
 <td><b>Duration</b></td>
 <td><b>Speaker</b></td>
 <td><b>Institution</b></td>
@@ -26,7 +25,6 @@ Meeting room will be announced later
 </thead>
 <tbody>
 <tr>
-<td>2:00PM </td>
 <td>2:00PM </td>
 <td>- </td>
 <td> </td>
@@ -36,7 +34,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 2:00</td>
-<td> 2:20</td>
 <td> 20</td>
 <td> Simon McIntosh-Smith</td>
 <td> University of Bristol	</td>
@@ -55,7 +52,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 2:20</td>
-<td> 2:40</td>
 <td> 20</td>
 <td> Nam Ho</td>	
 <td> Julich	</td>
@@ -74,7 +70,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 2:40</td>
-<td> 3:00</td>
 <td> 20</td>
 <td> Carlos Falquez</td>		
 <td> Julich</td>
@@ -92,7 +87,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 3:00</td>
-<td> 3:20</td>
 <td> 20</td>
 <td> Chen Liu</td>		
 <td> Clarkson</td>
@@ -110,7 +104,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 3:20</td>
-<td> 3:40</td>
 <td> 20</td>
 <td> Luka Stanisic</td>		
 <td> Huawei</td>
@@ -128,7 +121,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 3:40</td>
-<td> 4:00</td>
 <td> 20</td>
 <td>Gilles Tourpe </td>		
 <td> AWS</td>
@@ -146,14 +138,12 @@ Meeting room will be announced later
 
 <tr>
 <td> 4:00</td>
-<td> 4:30</td>
 <td> 30</td>
 <td colspan=4> Coffee Break</td>
 </tr>
 
 <tr>
 <td> 4:30</td>
-<td> 4:50</td>
 <td> 20</td>
 <td> Brendan Bouffler</td>
 <td> AWS</td>
@@ -172,7 +162,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 4:50</td>
-<td> 5:10</td>
 <td> 20</td>
 <td> Etienne Renault</td>		
 <td> SiPearl</td>
@@ -191,7 +180,6 @@ Meeting room will be announced later
 
 <tr>
 <td> 5:10</td>
-<td> 5:30</td>
 <td> 20</td>
 <td> Filippo Spiga</td>		
 <td> NVIDIA</td>
@@ -210,7 +198,6 @@ The variety of ARM chips (and SOC) that are used in the HPC realm make it diffic
 
 <tr>
 <td> 5:30</td>
-<td> 5:50</td>
 <td> 20</td>
 <td> Beau Paisley</td>		
 <td> Linaro</td>
@@ -228,7 +215,6 @@ The variety of ARM chips (and SOC) that are used in the HPC realm make it diffic
 
 <tr>
 <td> 5:50</td>
-<td> 6:00</td>
 <td> 20</td>
 <td> </td>
 <td> AHUG </td>
