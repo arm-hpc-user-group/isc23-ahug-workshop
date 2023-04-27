@@ -20,7 +20,6 @@ Meeting room will be announced later
 <td><b>Start</b></td>
 <td><b>Stop</b></td>
 <td><b>Duration</b></td>
-<td><b>What?</b></td>
 <td><b>Speaker</b></td>
 <td><b>Institution</b></td>
 <td><b>Title</b></td>
@@ -30,17 +29,15 @@ Meeting room will be announced later
 <td>2:00PM </td>
 <td>2:00PM </td>
 <td>- </td>
-<td>Welcome </td>
 <td> </td>
 <td>AHGU </td>
-<td> </td>
+<td>Welcome </td>
 </tr>
 
 <tr>
 <td> 2:00</td>
 <td> 2:20</td>
 <td> 20</td>
-<td> Slot 1</td>
 <td> Simon McIntosh-Smith</td>
 <td> University of Bristol	</td>
 <td> An update on the GW4 Isambard 3 Arm-based supercomputer
@@ -60,7 +57,6 @@ Meeting room will be announced later
 <td> 2:20</td>
 <td> 2:40</td>
 <td> 20</td>
-<td> Slot 2</td>
 <td> Nam Ho</td>	
 <td> Julich	</td>
 <td> Memory Prefetching Evaluation using gem5 Simulations
@@ -80,7 +76,6 @@ Meeting room will be announced later
 <td> 2:40</td>
 <td> 3:00</td>
 <td> 20</td>
-<td> Slot 3</td>
 <td> Carlos Falquez</td>		
 <td> Julich</td>
 <td> Studying different BFS algorithm implementations with gem5
@@ -99,7 +94,6 @@ Meeting room will be announced later
 <td> 3:00</td>
 <td> 3:20</td>
 <td> 20</td>
-<td> Slot 4</td>
 <td> Chen Liu</td>		
 <td> Clarkson</td>
 <td> High Frequency Performance Monitoring via Architectural Event Measurement
@@ -118,7 +112,6 @@ Meeting room will be announced later
 <td> 3:20</td>
 <td> 3:40</td>
 <td> 20</td>
-<td> Slot 5</td>
 <td> Luka Stanisic</td>		
 <td> Huawei</td>
 <td> Performance Evaluation of the Ginkgo Sparse Linear Solver Framework on Arm
@@ -137,7 +130,6 @@ Meeting room will be announced later
 <td> 3:40</td>
 <td> 4:00</td>
 <td> 20</td>
-<td> Slot 6</td>
 <td>Gilles Tourpe </td>		
 <td> AWS</td>
 <td> Hackathon with TERATEC - Feedback
@@ -163,7 +155,6 @@ Meeting room will be announced later
 <td> 4:30</td>
 <td> 4:50</td>
 <td> 20</td>
-<td> Slot 7</td>		
 <td> Brendan Bouffler</td>
 <td> AWS</td>
 <td> Updates from the field on Graviton 3E for HPC
@@ -183,7 +174,6 @@ Meeting room will be announced later
 <td> 4:50</td>
 <td> 5:10</td>
 <td> 20</td>
-<td> Slot 8</td>
 <td> Etienne Renault</td>		
 <td> SiPearl</td>
 <td> Evaluation and performance projections for ARM chips
@@ -203,7 +193,6 @@ Meeting room will be announced later
 <td> 5:10</td>
 <td> 5:30</td>
 <td> 20</td>
-<td> Slot 9</td>
 <td> Filippo Spiga</td>		
 <td> NVIDIA</td>
 <td>Accelerating time-to-science with the NVIDIA Superchip platform 
@@ -223,7 +212,6 @@ The variety of ARM chips (and SOC) that are used in the HPC realm make it diffic
 <td> 5:30</td>
 <td> 5:50</td>
 <td> 20</td>
-<td> Slot 10</td>
 <td> Beau Paisley</td>		
 <td> Linaro</td>
 <td> An Analysis of Arm Graviton systems Using Linaro Performance Reports
@@ -242,10 +230,9 @@ The variety of ARM chips (and SOC) that are used in the HPC realm make it diffic
 <td> 5:50</td>
 <td> 6:00</td>
 <td> 20</td>
-<td> Wrap-up</td>
 <td> </td>
 <td> AHUG </td>
-<td> </td>
+<td> Wrap-up </td>
 </tr>
 
 
