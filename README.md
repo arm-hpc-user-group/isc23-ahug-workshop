@@ -189,7 +189,7 @@ Meeting room will be announced later
     Abstract
   </summary>
   <details-menu>
-The variety of ARM chips (and SOC) that are used in the HPC realm make it difficult to anticipate performances on other ARM based architectures. This talk compares the relatives performances of ARM chips on different HPC benchmarks and shows some strategies to anticipate results with a variety of different configurations.
+The present talk will highlight how the NVIDIA Superchip platform (Grace Superchip and Grace Hopper Superchip), enabled by Arm Neoverse IP, is enabling HPC users and developers to achieve a better time-to-solution and energy-to-solution in their scientific workflows. Performance numbers will be disclosed and discussed, as well as the latest updates on the product go-to-market options.
   </details-menu>
 </details>
 </td>
