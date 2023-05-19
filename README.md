@@ -25,15 +25,15 @@ Meeting room will be announced later
 </thead>
 <tbody>
 <tr>
-<td>2:00PM </td>
-<td>- </td>
+<td> 2:00pm</td>
+<td> -</td>
 <td> </td>
-<td>Filippo Spiga (AHUG) </td>
-<td>Welcome and Housekeeping </td>
+<td> Filippo Spiga (AHUG) </td>
+<td> Welcome and Housekeeping </td>
 </tr>
 
 <tr>
-<td> 2:00</td>
+<td> 2:00pm</td>
 <td> 20</td>
 <td> Simon McIntosh-Smith</td>
 <td> University of Bristol	</td>
@@ -51,7 +51,7 @@ Meeting room will be announced later
 </tr>
 
 <tr>
-<td> 2:20</td>
+<td> 2:20pm</td>
 <td> 20</td>
 <td> Nam Ho</td>	
 <td> Julich	</td>
@@ -69,7 +69,7 @@ Meeting room will be announced later
 
 
 <tr>
-<td> 2:40</td>
+<td> 2:40pm</td>
 <td> 20</td>
 <td> Carlos Falquez</td>		
 <td> Julich</td>
@@ -86,7 +86,7 @@ Meeting room will be announced later
 </tr>
 
 <tr>
-<td> 3:00</td>
+<td> 3:00pm</td>
 <td> 20</td>
 <td> Chen Liu</td>		
 <td> Clarkson</td>
@@ -103,7 +103,7 @@ Meeting room will be announced later
 </tr>
 
 <tr>
-<td> 3:20</td>
+<td> 3:20pm</td>
 <td> 20</td>
 <td> Luka Stanisic</td>		
 <td> Huawei</td>
@@ -120,7 +120,7 @@ Meeting room will be announced later
 </tr>
 
 <tr>
-<td> 3:40</td>
+<td> 3:40pm</td>
 <td> 20</td>
 <td>Gilles Tourpe </td>		
 <td> AWS</td>
@@ -137,13 +137,13 @@ Meeting room will be announced later
 </tr>
 
 <tr>
-<td> 4:00</td>
+<td> 4:00pm</td>
 <td> 30</td>
 <td colspan=4> Coffee Break</td>
 </tr>
 
 <tr>
-<td> 4:30</td>
+<td> 4:30pm</td>
 <td> 20</td>
 <td> Brendan Bouffler</td>
 <td> AWS</td>
@@ -161,7 +161,7 @@ Meeting room will be announced later
 
 
 <tr>
-<td> 4:50</td>
+<td> 4:50pm</td>
 <td> 20</td>
 <td> Etienne Renault</td>		
 <td> SiPearl</td>
@@ -179,7 +179,7 @@ Meeting room will be announced later
 
 
 <tr>
-<td> 5:10</td>
+<td> 5:10pm</td>
 <td> 20</td>
 <td> Filippo Spiga</td>		
 <td> NVIDIA</td>
@@ -197,7 +197,7 @@ The present talk will highlight how the NVIDIA Superchip platform (Grace Superch
 
 
 <tr>
-<td> 5:30</td>
+<td> 5:30pm</td>
 <td> 20</td>
 <td> Beau Paisley</td>		
 <td> Linaro</td>
@@ -214,7 +214,7 @@ The present talk will highlight how the NVIDIA Superchip platform (Grace Superch
 </tr>
 
 <tr>
-<td> 5:50</td>
+<td> 5:50pm</td>
 <td> 10</td>
 <td> </td>
 <td> Miwako Tsuji (AHUG) </td>
