@@ -28,8 +28,8 @@ Meeting room will be announced later
 <td>2:00PM </td>
 <td>- </td>
 <td> </td>
-<td>AHGU </td>
-<td>Welcome </td>
+<td>Filippo Spiga (AHUG) </td>
+<td>Welcome and Housekeeping </td>
 </tr>
 
 <tr>
