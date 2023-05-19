@@ -215,10 +215,10 @@ The present talk will highlight how the NVIDIA Superchip platform (Grace Superch
 
 <tr>
 <td> 5:50</td>
-<td> 20</td>
+<td> 10</td>
 <td> </td>
-<td> AHUG </td>
-<td> Wrap-up </td>
+<td> Miwako Tsuji (AHUG) </td>
+<td> Wrap-up session and announcements </td>
 </tr>
 
 
