@@ -10,8 +10,8 @@ to be held in conjunction with ISC High Performance 2023 (https://www.isc-hpc.co
 
 
 ### Place
-Congress Center Hamburg (CCH), Germany<br>
-Meeting room will be announced later
+
+Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 
 ### Timetable and agenda 
 
