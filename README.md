@@ -17,27 +17,21 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 
 <table>
 <thead>
-<td><b>Start</b></td>
-<td><b>Duration</b></td>
 <td><b>Speaker</b></td>
 <td><b>Institution</b></td>
-<td><b>Title</b></td>
+<td><b>Title (slides)</b></td>
 </thead>
 <tbody>
 <tr>
-<td> 2:00pm</td>
-<td> -</td>
 <td> </td>
 <td> Filippo Spiga (AHUG) </td>
 <td> Welcome and Housekeeping </td>
 </tr>
 
 <tr>
-<td> 2:00pm</td>
-<td> 20</td>
 <td> Simon McIntosh-Smith</td>
 <td> University of Bristol	</td>
-<td> An update on the GW4 Isambard 3 Arm-based supercomputer
+<td> <a href="slides/ISC23-AHUG_Simon-McIntosh-Smith.pdf">An update on the GW4 Isambard 3 Arm-based supercomputer</a>
 <details>
   <summary>
     Abstract
@@ -46,16 +40,13 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
   The GW4 Isambard supercomputer was the first production Arm-based system when it went live in the spring of 2018. Having already gone through two generations of Arm technology, Isambard 3, due to launch at the end of 2023, will be based on NVIDIA's new Grace CPUs. Isambard 3 will deliver 5-6 times the performance of Isambard 2, while using only 20% more power. In this talk we will describe the new system, as well as giving an update on the progress of Isambard's multi-year mission to port and optimise codes to the Arm architecture.
   </details-menu>
 </details>
-
 </td>
 </tr>
 
 <tr>
-<td> 2:20pm</td>
-<td> 20</td>
 <td> Nam Ho</td>	
 <td> Julich	</td>
-<td> Memory Prefetching Evaluation using gem5 Simulations
+<td> <a href="slides/ISC23-AHUG_Nam-Ho.pdf">Memory Prefetching Evaluation using gem5 Simulations</a>
 <details>
   <summary>
     Abstract
@@ -69,11 +60,9 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 
 
 <tr>
-<td> 2:40pm</td>
-<td> 20</td>
 <td> Carlos Falquez</td>		
 <td> Julich</td>
-<td> Studying different BFS algorithm implementations with gem5
+<td> <a href="slides/ISC23-AHUG_Carlos-Falquez.pdf">Studying different BFS algorithm implementations with gem5</a>
 <details>
   <summary>
     Abstract
@@ -86,11 +75,9 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 </tr>
 
 <tr>
-<td> 3:00pm</td>
-<td> 20</td>
 <td> Chen Liu</td>		
 <td> Clarkson</td>
-<td> High Frequency Performance Monitoring via Architectural Event Measurement
+<td> <a href="slides/ISC23-AHUG_Chen-Liu.pdf">High Frequency Performance Monitoring via Architectural Event Measurement</a>
 <details>
   <summary>
     Abstract
@@ -103,11 +90,9 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 </tr>
 
 <tr>
-<td> 3:20pm</td>
-<td> 20</td>
 <td> Luka Stanisic</td>		
 <td> Huawei</td>
-<td> Performance Evaluation of the Ginkgo Sparse Linear Solver Framework on Arm
+<td> <a href="slides/ISC23-AHUG_Luka-Stanisic.pdf">Performance Evaluation of the Ginkgo Sparse Linear Solver Framework on Arm</a>
 <details>
   <summary>
     Abstract
@@ -120,11 +105,9 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 </tr>
 
 <tr>
-<td> 3:40pm</td>
-<td> 20</td>
 <td>Gilles Tourpe </td>		
 <td> AWS</td>
-<td> Hackathon with TERATEC - Feedback
+<td> <a href="slides/ISC23-AHUG_Conrad-Tourpe.pdf">Hackathon with TERATEC - Feedback</a>
 <details>
   <summary>
     Abstract
@@ -137,17 +120,13 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 </tr>
 
 <tr>
-<td> 4:00pm</td>
-<td> 30</td>
 <td colspan=4> Coffee Break</td>
 </tr>
 
 <tr>
-<td> 4:30pm</td>
-<td> 20</td>
 <td> Brendan Bouffler</td>
 <td> AWS</td>
-<td> Updates from the field on Graviton 3E for HPC
+<td> <a href="slides/ISC23-AHUG_Brendan-Bouffler.pdf">Updates from the field on Graviton 3E for HPC</a>
 <details>
   <summary>
     Abstract
@@ -161,11 +140,9 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 
 
 <tr>
-<td> 4:50pm</td>
-<td> 20</td>
 <td> Etienne Renault</td>		
 <td> SiPearl</td>
-<td> Evaluation and performance projections for ARM chips
+<td> <a href="slides/ISC23-AHUG-Etienne-Renault.pdf">Evaluation and performance projections for ARM chips</a>
 <details>
   <summary>
     Abstract
@@ -179,11 +156,9 @@ Hall Y11 - 2nd Floor, Congress Center Hamburg (CCH), Germany<br>
 
 
 <tr>
-<td> 5:10pm</td>
-<td> 20</td>
 <td> Filippo Spiga</td>		
 <td> NVIDIA</td>
-<td>Accelerating time-to-science with the NVIDIA Superchip platform 
+<td> <a href="slides/ISC23-AHUG-Spiga-FIlippo.pdf">Accelerating time-to-science with the NVIDIA Superchip platform</a>
 <details>
   <summary>
     Abstract
@@ -197,11 +172,9 @@ The present talk will highlight how the NVIDIA Superchip platform (Grace Superch
 
 
 <tr>
-<td> 5:30pm</td>
-<td> 20</td>
 <td> Beau Paisley</td>		
 <td> Linaro</td>
-<td> An Analysis of Arm Graviton systems Using Linaro Performance Reports
+<td> <a href="slides/ISC23-AHUG_Beau-Paisley.pdf">An Analysis of Arm Graviton systems Using Linaro Performance Reports</a>
 <details>
   <summary>
     Abstract
@@ -214,8 +187,6 @@ The present talk will highlight how the NVIDIA Superchip platform (Grace Superch
 </tr>
 
 <tr>
-<td> 5:50pm</td>
-<td> 10</td>
 <td> </td>
 <td> Miwako Tsuji (AHUG) </td>
 <td> Wrap-up session and announcements </td>
